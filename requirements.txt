@@ -1,0 +1,15 @@
+# StromXDevs / Android-friendly runtime dependencies
+# Python 3.10+ recommended (tested source compatibility with Python 3.13)
+discord.py>=2.6,<3
+aiohttp>=3.9
+Flask>=3.0
+wavelink==3.4.1
+aiosqlite
+gtts
+langdetect
+python-dotenv
+PyYAML
+requests
+colorama
+chess
+python-dateutil
